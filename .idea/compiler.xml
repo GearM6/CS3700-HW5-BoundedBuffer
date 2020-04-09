@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CS3700-HW5" target="1.5" />
+      <module name="CS3700-HW5" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
